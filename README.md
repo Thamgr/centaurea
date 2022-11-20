@@ -14,4 +14,4 @@ Playing at depth 1, Centaurea is capable of beating weak chess engines. The foll
 
 ![game gif](https://i.imgur.com/TOZB3zI.gif)
 
-We can see that it takes opponent's hanging pieces and retrieve own ones. Probably due to 1-depth searhc, it often misses simple tactics
+We can see that it takes opponent's hanging pieces and retrieve own ones. Probably due to 1-depth searhc, it often misses simple tactics. Yet it has already reached quite competitive level of play!
