@@ -15,3 +15,5 @@ Playing at depth 1, Centaurea is capable of beating weak chess engines. The foll
 <img src="https://i.imgur.com/TOZB3zI.gif" width="200">
 
 We can see that it takes opponent's hanging pieces and retrieve own ones. Probably due to 1-depth searhc, it often misses simple tactics. Yet it has already reached quite competitive level of play!
+
+[Trained weights for uci engine](https://drive.google.com/file/d/1u1cizMC0JXSVcM7QkQ9HcdqMwnffgxC4/view?usp=sharing)
